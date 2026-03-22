@@ -2,3 +2,6 @@ streamlit
 PyMuPDF
 python-docx
 google-generativeai
+fastapi
+uvicorn
+python-multipart
